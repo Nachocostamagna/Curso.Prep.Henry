@@ -1,0 +1,22 @@
+
+h1 {
+    color:red;
+}
+img {
+    width: 500px;
+    height: 420px;
+}
+
+#thirdDiv{
+    background-color: salmon;
+    width: 600px;   
+    height: 500px;
+    padding: 50px;
+    border: 15px ridge whitesmoke;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
